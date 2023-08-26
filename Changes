@@ -1,6 +1,7 @@
 Revision history for Crypt-Yescrypt
 
 {{$NEXT}}
+          - Switch to Module::Build::Tiny
 
 0.002     2023-04-13 13:06:10+02:00 Europe/Amsterdam
           - Add yescrypt_kdf
